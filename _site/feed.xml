@@ -7,24 +7,178 @@
 		<atom:link href="http://wanmen.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Welcome to Jekyll!</title>
-				<description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+				<title>GSOC 2014, Wanmen not on the list.</title>
+				<description>&lt;h1&gt;Wanmen not on the list&lt;/h1&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Unfortunately, wanmen was not on the Google Summer of Code mentoring organization list. We will need to work harder to better prepare ourselves as a strong open source community. &lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In the meanwhile, we hope students find our projects interesting and willing to join us as tech volunteers to execute some ideas. &lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&amp;#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our vision is to make a great impact to the future of higher education.&lt;/p&gt;
 </description>
-				<pubDate>Sat, 15 Feb 2014 00:37:42 +0000</pubDate>
-				<link>http://wanmen.github.io/blog/jekyll/update/2014/02/15/welcome-to-jekyll.html</link>
-				<guid isPermaLink="true">http://wanmen.github.io/blog/jekyll/update/2014/02/15/welcome-to-jekyll.html</guid>
+				<pubDate>Tue, 25 Feb 2014 11:34:42 +0000</pubDate>
+				<link>http://wanmen.github.io/blog/gsoc/update/2014/02/25/not-selected.html</link>
+				<guid isPermaLink="true">http://wanmen.github.io/blog/gsoc/update/2014/02/25/not-selected.html</guid>
+			</item>
+		
+			<item>
+				<title>Project Ideas</title>
+				<description>&lt;h1&gt;Project ideas&lt;/h1&gt;
+
+&lt;p&gt;Here are some ideas for 2014 Google Summer of Code student projects. Note that these themes are just to get you started. We welcome submissions beyond these initial ideas. Get in touch with us! gsoc@wanmen.org or #wanmen on freenode.&lt;/p&gt;
+
+&lt;h2&gt;1.A collaborative video annotation system&lt;/h2&gt;
+
+&lt;p&gt;Collaborative teaching can be very helpful for self-learners. Video annotating can be one efficient approach. When a user watches a video, it is very useful to see other people’s comments at a specific timing including lecture slides, external web links, etc.&lt;/p&gt;
+
+&lt;p&gt;Wanmen has built a basic video playlist project (sea.wanmen.org). We would like to further explore the collaborative components of self learning as well as social/collaborative learning. A lot more interesting collaborative learning ideas can be added to the system and make it shine.&lt;/p&gt;
+
+&lt;p&gt;Tasks: Design and implement a collaborative video annotation system that allows users to create and display multimedia annotations at specific seconds. It will be even better if users can rate other&amp;#39;s comment, and administrators can pick up those really useful comment and give them a fixed place to show in the video.&lt;/p&gt;
+
+&lt;p&gt;Language: Ruby/Python, HTML5, JavaScript, Bootstrap, Backbone/Angular,etc.&lt;/p&gt;
+
+&lt;p&gt;Difficulty: Easy - Intermediate&lt;/p&gt;
+
+&lt;h2&gt;2. Knowledge Tree and Knowledge Curation System&lt;/h2&gt;
+
+&lt;p&gt;Learning is trackable. There are paths for learning a certain subject. For instance, if you are planning to learn Quantum Physics, you’ve got to learn the basic physics principles and mathematic to get into the the field. There is no shortcut. However, the information on the web is unorganised. We need a knowledge curation system to keep track of the steps. In that sense, learners need a systematic way to help track their learning paths to master a certain subject.
+Wanmen’s content management system(beta.wanmen.org) makes a fair assumption that learners will need to learn certain books and watch certain videos before moving to the next step.&lt;/p&gt;
+
+&lt;p&gt;Tasks: Design and implement a knowledge tree system that allows users to get track of their learning paths.&lt;/p&gt;
+
+&lt;p&gt;Language: Ruby, HTML5, Javascript, Bootstrap, jQuery.&lt;/p&gt;
+
+&lt;p&gt;Difficulty: Intermediate&lt;/p&gt;
+
+&lt;h2&gt;3. Online Quiz System and User Rewarding System&lt;/h2&gt;
+
+&lt;p&gt;One of the most efficient ways to check the learning process is to take a quiz or exam. It is desirable to create an online quiz system that helps teacher examine the students and students to get learning feedbacks. University online quizzes include various forms of contents. Multiple choices, text field answer and coding exercises are typical quiz types. In this project, students are required to implement an online quiz system that rewards users and motivate the users to learn more.&lt;/p&gt;
+
+&lt;p&gt;Tasks: Design and implement an online  quiz system that rewards users and motivate the learning process. Feature abstractions and machine learning might also be involved.&lt;/p&gt;
+
+&lt;p&gt;Difficulty: Intermediate&lt;/p&gt;
+
+&lt;h2&gt;4. Online Mind Mapping Tool&lt;/h2&gt;
+
+&lt;p&gt;Mind mapping plays an important role in teaching and discussing now, as a online teaching project, Wanmen needs mind mapping too. This idea aims at providing a easy-to-use online tool for teachers and students who need mind mapping to clarify their thought. In this project, students need to build a front-end application by using HTML5, CSS and JavaScript, and meet the following requirements:&lt;/p&gt;
+
+&lt;p&gt;(1) User can add central topic and add several subtopic associated with central topic, and add sub-subtopic for subtopic
+(2) There need to be a link between topics, is should be auto-arranged
+(3) Support callout(comment on a topic) 
+(4) User can add lines to related topics, all lines should be arranged well to keep the graph clear
+(5) It&amp;#39;s possible to serialize the mind mapping to a JSON data pack, and keep it exactly the same when loaded the next time&lt;/p&gt;
+
+&lt;p&gt;Difficulty: Difficult&lt;/p&gt;
+
+&lt;p&gt;Other project ideas:
+Consistent user authentication system for independent projects.
+Distributed system networks for media content hosting as well as server connection optimization.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 14 Feb 2014 11:34:42 +0000</pubDate>
+				<link>http://wanmen.github.io/blog/gsoc/update/2014/02/14/ideas.html</link>
+				<guid isPermaLink="true">http://wanmen.github.io/blog/gsoc/update/2014/02/14/ideas.html</guid>
+			</item>
+		
+			<item>
+				<title>Wanmen is applying for GSOC 2014!</title>
+				<description>&lt;h1&gt;Wanmen 2014 Summer of Code Mentoring Organization Proposal&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;#q1&quot;&gt;Describe your organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q2&quot;&gt;Why is your organization applying to participate in Google Summer of Code 2014? What do you hope to gain by participating?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q3&quot;&gt;Has your organization participated in past Google Summer of Codes? (yes/no)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q4&quot;&gt;If you answered “yes” to the question above, please summarize your involvement and the successes and challenges of your participation. Please also list your pass/fail rate for each year.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q5&quot;&gt;If your organization has not previously participated in Google Summer of Code, have you applied in the past? If so, for what year(s)?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q6&quot;&gt;What Open Source Initiative approved license(s) does your project use?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q7&quot;&gt;What is the URL for your Ideas list?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q8&quot;&gt;What is the main development mailing list for your organization?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q9&quot;&gt;What is the main IRC channel for your organization?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q10&quot;&gt;Who will be your backup organization administrator?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q11&quot;&gt;What criteria did you use to select the mentors? Please be as specific as possible.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q12&quot;&gt;What is your plan for dealing with disappearing students? Please be as specific as possible.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q13&quot;&gt;What is your plan for dealing with disappearing mentors? Please be as specific as possible.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q14&quot;&gt;What steps will you take to encourage students to interact with your project’s community before, during and after the program?Before During After&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q15&quot;&gt;Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q16&quot;&gt;Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#q17&quot;&gt;What will you do to encourage that your accepted students stick with the project after Google Summer of Code concludes?&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a name=&quot;q1&quot;&gt;1.Describe your organization.&lt;/a&gt;
+Wanmen is an open university aiming to provide low entrance university level education to the general public in China. Founded by a young physics scholar, Tong Zhe in the year 2012 , Wanmen stands itself as a non profitable education institute to deliver university level knowledge. We believe that every one can become their own teacher through self-study.&lt;/p&gt;
+
+&lt;p&gt;Wanmen Developer Team is a volunteer-led technical team having strong social responsibilities. Started coding in May 2013, Wanmen Developer Team has initiated several education oriented technical projects, including Schrödinger&amp;#39;s cat(CATS in short, Wanmen’s content management system), Dirac sea(SEA in short, Wanmen’s collaborative learning system), Klein bottle(BOTTLE in short, Wanmen’s front end stylesheets).&lt;/p&gt;
+
+&lt;p&gt;Most projects are hosted on Github to encourage the spirit of open sourced programming as knowledge sharing is also a strong culture in Wanmen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q2&quot;&gt;2. Why is your organization applying to participate in Google Summer of Code 2014? What do you hope to gain by participating?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We hope to attract student developers to join Wanmen and make projects to influence the online higher education.&lt;/p&gt;
+
+&lt;p&gt;We plan to add more features and upgrade two existed systems in the summer. Many tasks can be implemented in google summer of code project. New developers would be very helpful in implementing these plans.  &lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q3&quot;&gt;3. Has your organization participated in past Google Summer of Codes? (yes/no)&lt;/a&gt;
+No&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q4&quot;&gt;4. If you answered “yes” to the question above, please summarize your involvement and the successes and challenges of your participation. Please also list your pass/fail rate for each year.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q5&quot;&gt;5. If your organization has not previously participated in Google Summer of Code, have you applied in the past? If so, for what year(s)?&lt;/a&gt;
+Not yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q6&quot;&gt; 6. What Open Source Initiative approved license(s) does your project use?&lt;/a&gt;
+Wanmen is licenced under the Apache License, Version 2.0&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q7&quot;&gt;7. What is the URL for your Ideas list?&lt;/a&gt;
+https://github.com/wanmen/gsoc/idea.md&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q8&quot;&gt;8. What is the main development mailing list for your organization?&lt;/a&gt;
+https://github.com/wanmen/gsoc/mail.md&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q9&quot;&gt;9. What is the main IRC channel for your organization?&lt;/a&gt;
+&lt;code&gt;#wanmen&lt;/code&gt; on irc.freenode.net&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q10&quot;&gt;10. Who will be your backup organization administrator?&lt;/a&gt;
+Shaohuan Li, shaohuan.li AT gmail.com&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q11&quot;&gt;11. What criteria did you use to select the mentors? Please be as specific as possible.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Previously Google Summer of Code students or mentors. Active contributors of Wanmen who have strong technical background will also be included.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q12&quot;&gt;12. What is your plan for dealing with disappearing students? Please be as specific as possible.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We will firstly choose reliable students, such as previous GSOC students. We have asked a few previous GSOC students, some of them are interested. If possible, we can meet them in person. We will work with them regularly on github repositories to check the progress. &lt;/p&gt;
+
+&lt;p&gt;We will have at least one meeting per week with every student. To keep them in mailing list as well as social networks. In case of disappearing, we will also try to find them on social networks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q13&quot;&gt;13. What is your plan for dealing with disappearing mentors? Please be as specific as possible.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wanmen’s developers are very connected. Most developers keep connections via Google Talk and they are mostly online. We will keep the developers updated with the progress. In a rare case one mentor disappears, we can quickly assign another mentor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q14&quot;&gt;14. What steps will you take to encourage students to interact with your project’s community before, during and after the program?&lt;/a&gt;
+Before&lt;/p&gt;
+
+&lt;p&gt;Students are encouraged to ask questions to the Wanmen team. They can interact via Google Group, IRC, mailing lists,etc. Students are also encouraged to report issues in the Github repository and fix problems on the existed project.&lt;/p&gt;
+
+&lt;p&gt;During&lt;/p&gt;
+
+&lt;p&gt;Mailing lists, Google handouts and IRC will be our main communication channels. Mentors will have weekly meeting with students. We also want them to maintain a weekly blogpost to log their progresses and learnings.&lt;/p&gt;
+
+&lt;p&gt;After&lt;/p&gt;
+
+&lt;p&gt;Wanmen developers are encouraged to send pull requests for code review before merging. Developers in the mailing lists will be notified for the code review. Developers can review their old codes when there are issues. Wanmen developers are also encouraged to come up with their own idea to make great impacts on online education. They can get other developers supports to help make the ideas into reality.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q15&quot;&gt;15. Are you a new organization who has a Googler or other organization to vouch for you? If so, please list their name(s) here.&lt;/a&gt;
+No&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q16&quot;&gt;16. Are you an established or larger organization who would like to vouch for a new organization applying this year? If so, please list their name(s) here.&lt;/a&gt;
+No.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;q17&quot;&gt;17. What will you do to encourage that your accepted students stick with the project after Google Summer of Code concludes?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We will try to make the learning process enjoyable and knowledgeable. In the project, we stick to principles of open source software development that aim at making newcomers feel comfortable. For instance, contributions by everyone goes through code review on the github pull requests. We also consider as an important objective of the Summer of Code projects, to merge the code written by students by the end of the project timeframe. By doing this we hope to make the experience satisfying to them, and prove that they can really make a difference working on an open source project.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 14 Feb 2014 00:37:42 +0000</pubDate>
+				<link>http://wanmen.github.io/blog/gsoc/update/2014/02/14/welcome-to-jekyll.html</link>
+				<guid isPermaLink="true">http://wanmen.github.io/blog/gsoc/update/2014/02/14/welcome-to-jekyll.html</guid>
 			</item>
 		
 	</channel>

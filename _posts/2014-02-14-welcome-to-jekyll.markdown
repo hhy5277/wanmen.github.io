@@ -2,7 +2,7 @@
 layout: post
 title:  "Wanmen is applying for GSOC 2014!"
 date:   2014-02-14 00:37:42
-categories: jekyll update
+categories: gsoc update
 ---
 
 #Wanmen 2014 Summer of Code Mentoring Organization Proposal
