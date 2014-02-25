@@ -11,4 +11,4 @@ Unfortunately, wanmen was not on the Google Summer of Code mentoring organizatio
 
 In the meanwhile, we hope students find our projects interesting and willing to join us as tech volunteers to execute some ideas. 
 
-Our vision is to make a great impact to the future of higher education.
+Our vision is to make a great impact to the future of higher education. Let's come together to make a difference.
