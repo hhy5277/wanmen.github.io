@@ -1,5 +1,5 @@
 name: Wanmen GSOC Blog
 description: Wanmen Blog for Google Summer of Code
-url: http://wanmen.github.io/blog
+url: http://wanmen.github.io
 markdown: redcarpet
 pygments: true
