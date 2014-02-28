@@ -7,6 +7,47 @@
 		<atom:link href="http://wanmen.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Feedbacks from Carols in Google!</title>
+				<description>&lt;p&gt;Carol gave some feedbacks on our idea page. Basically, there are some problems our applications.&lt;/p&gt;
+
+&lt;h2&gt;Comments to the previous group, which apply to our group as well.&lt;/h2&gt;
+
+&lt;p&gt;alright, so, firstly, i like your ideas page, but it could have used some more flesh on the ideas&lt;/p&gt;
+
+&lt;p&gt;i don&amp;#39;t mind that it&amp;#39;s short, but if it&amp;#39;s going to be short, it&amp;#39;s got to be well-described for each idea&lt;/p&gt;
+
+&lt;p&gt;your app actually looks fine, but i would have been more swayed if you had someone vouching for you&lt;/p&gt;
+
+&lt;p&gt;but the ideas page wasn&amp;#39;t as convincing as it needed to be&lt;/p&gt;
+
+&lt;h2&gt;Comments to our group.&lt;/h2&gt;
+
+&lt;p&gt;so, i have similar feedback for you that i did for the last group&lt;/p&gt;
+
+&lt;p&gt;i don&amp;#39;t mind that your ideas page is short, but if it&amp;#39;s going to be short it&amp;#39;s got to be really well-fleshed-out&lt;/p&gt;
+
+&lt;p&gt;some of your ideas have skills required and languages, others dont&lt;/p&gt;
+
+&lt;p&gt;you don&amp;#39;t necessarily need to add more ideas, but you do need to describe each one very well if you choose to go that route&lt;/p&gt;
+
+&lt;p&gt;it sounds like an interesting project, but we would have also liked to see someone vouch for you&lt;/p&gt;
+
+&lt;p&gt;that would have been a nice point in your favor&lt;/p&gt;
+
+&lt;h2&gt;总结一下，以下几点：&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Idea稍微多一点&lt;/li&gt;
+&lt;li&gt;每一个Idea写得尽量详细和统一，比如有些写了需要用哪些语言，有些却没写&lt;/li&gt;
+&lt;li&gt;最好有人推荐&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+				<pubDate>Sat, 01 Mar 2014 00:51:42 +0000</pubDate>
+				<link>http://wanmen.github.io/gsoc/update/2014/03/01/feedback-summary.html</link>
+				<guid isPermaLink="true">http://wanmen.github.io/gsoc/update/2014/03/01/feedback-summary.html</guid>
+			</item>
+		
+			<item>
 				<title>Feedback</title>
 				<description>&lt;html class=&quot;normal&quot; _type=&quot;channel&quot; channelname=&quot;#gsoc&quot;&gt;&lt;head&gt;&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;&lt;meta http-equiv=&quot;Content-Script-Type&quot; content=&quot;text/javascript&quot;&gt;&lt;meta http-equiv=&quot;Content-Style-Type&quot; content=&quot;text/css&quot;&gt;&lt;style&gt;html {font-family:&#39;Courier&#39;;font-size:9pt;background-color:white;color:black;word-wrap:break-word;margin:0;padding:3px 4px 10px 4px;}body {margin:0;padding:0}img {border:1px solid #aaa;vertical-align:top;}object {vertical-align:top;}hr {margin:0.5em 2em;}.line {margin:0 -4px; padding:0 4px 1px 4px; clear:both;}.line[alternate=even] {}.line[alternate=odd] {}.line[_type=action] .sender:before {content: &#39;• &#39;;white-space: nowrap;}.inlineimage {margin: 10px 0 15px 40px;max-width: 200px;max-height: 150px;-webkit-box-shadow: 2px 2px 2px #888;}.avatar {display: inline;max-width: 24px;max-height: 24px;margin-right: 3px;vertical-align: middle;}.url { word-break: break-all; }.address { text-decoration: underline; word-break: break-all; }.highlight { color: #f0f; font-weight: bold; }.time { color: #048; }.place { color: #008; }.sender[_type=myself] { color: #66a; }.sender[_type=normal] { color: #008; }.message[_type=system] { color: #080; }.message[_type=error] { color: #f00; font-weight: bold; }.message[_type=reply] { color: #088; }.message[_type=error_reply] { color: #f00; }.message[_type=dcc_send_send] { color: #088; }.message[_type=dcc_send_receive] { color: #00c; }.message[_type=privmsg] {}.message[_type=notice] { color: #888; }.message[_type=action] {}.message[_type=join] { color: #080; }.message[_type=part] { color: #080; }.message[_type=kick] { color: #080; }.message[_type=quit] { color: #080; }.message[_type=kill] { color: #080; }.message[_type=nick] { color: #080; }.message[_type=mode] { color: #080; }.message[_type=topic] { color: #080; }.message[_type=invite] { color: #080; }.message[_type=wallops] { color: #080; }.message[_type=debug_send] { color: #aaa; }.message[_type=debug_receive] { color: #444; }.effect[color-number=&#39;0&#39;] { color: #fff; }.effect[color-number=&#39;1&#39;] { color: #000; }.effect[color-number=&#39;2&#39;] { color: #008; }.effect[color-number=&#39;3&#39;] { color: #080; }.effect[color-number=&#39;4&#39;] { color: #f00; }.effect[color-number=&#39;5&#39;] { color: #800; }.effect[color-number=&#39;6&#39;] { color: #808; }.effect[color-number=&#39;7&#39;] { color: #f80; }.effect[color-number=&#39;8&#39;] { color: #ff0; }.effect[color-number=&#39;9&#39;] { color: #0f0; }.effect[color-number=&#39;10&#39;] { color: #088; }.effect[color-number=&#39;11&#39;] { color: #0ff; }.effect[color-number=&#39;12&#39;] { color: #00f; }.effect[color-number=&#39;13&#39;] { color: #f0f; }.effect[color-number=&#39;14&#39;] { color: #888; }.effect[color-number=&#39;15&#39;] { color: #ccc; }.effect[bgcolor-number=&#39;0&#39;] { background-color: #fff; }.effect[bgcolor-number=&#39;1&#39;] { background-color: #000; }.effect[bgcolor-number=&#39;2&#39;] { background-color: #008; }.effect[bgcolor-number=&#39;3&#39;] { background-color: #080; }.effect[bgcolor-number=&#39;4&#39;] { background-color: #f00; }.effect[bgcolor-number=&#39;5&#39;] { background-color: #800; }.effect[bgcolor-number=&#39;6&#39;] { background-color: #808; }.effect[bgcolor-number=&#39;7&#39;] { background-color: #f80; }.effect[bgcolor-number=&#39;8&#39;] { background-color: #ff0; }.effect[bgcolor-number=&#39;9&#39;] { background-color: #0f0; }.effect[bgcolor-number=&#39;10&#39;] { background-color: #088; }.effect[bgcolor-number=&#39;11&#39;] { background-color: #0ff; }.effect[bgcolor-number=&#39;12&#39;] { background-color: #00f; }.effect[bgcolor-number=&#39;13&#39;] { background-color: #f0f; }.effect[bgcolor-number=&#39;14&#39;] { background-color: #888; }.effect[bgcolor-number=&#39;15&#39;] { background-color: #ccc; }&lt;/style&gt;&lt;style&gt;&lt;!-- html {
 	font-family: &quot;Dejavu Sans Mono&quot;, &quot;Monaco&quot;, monospace;
